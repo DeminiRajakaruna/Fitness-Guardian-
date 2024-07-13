@@ -1,0 +1,9 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.extraPaths": [
+        "./flaskProject",
+        "./flaskProject",
+        "./flaskProject",
+        "./flaskProject"
+    ]
+}
